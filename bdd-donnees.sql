@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 
 INSERT INTO `client` (`id`, `first_name`, `last_name`, `email`, `phone`, `created_at`) VALUES
-(19, 'Anthony', 'Laplane', 'anthony.laplane@gmail.com', '+33610666245', '2022-08-22 17:13:13'),
+(19, 'John', 'Doe', 'John.doe@gmail.com', '+33610555888777', '2022-08-22 17:13:13'),
 (20, 'Pierre', 'Grand', 'pierre@gmail.com', '', '2022-08-22 17:26:52');
 
 --
